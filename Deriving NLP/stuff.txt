@@ -1,0 +1,42 @@
+Job Description:
+Responsible for building and leading a team to deliver technology products and services that meet business outcomes. Ensures people development through coaching, mentoring, feedback, and hands-on career development. Develops a technology strategy and ensures technology solutions comply with applicable standards. This role advocates and advances modern, Agile solution delivery practices and evangelizes great design, engineering and organizational practices. Accountable for team/program level resource and financial management; builds and maintains teams through talent acquisition. Sets maturity objectives and enables individuals/teams to with training & resources to achieve them. Sets and tracks quality and performance objectives. Facilitates performance and career development of individuals through performance reviews, coaching, and building individual development plans that are needed to develop competencies and skills. Understands individual and team maturity and performance through team/client feedback. Manages relationships with the business and technology leaders, and vendors for technical products. Accountable for solution delivery management as relevant to their teams e.g. prioritizing tech debt, compliance and security items, and supporting audits. Accountable to ensure all relevant risk, financial, and compliance polices and standards are met. Accountable for the application performance in production (app health, resiliency, performance, security, enterprise data management standards, audit exams and reviews). Creates the technology strategy for their technical domain. Ensures that execution is aligned with product strategy by working with Product Management, Product Owners, and other stakeholders. Creates an inclusive and healthy working environment, and helps to resolve organizational impediments/blockers. Leads and creates followership in Communities of Practice in the organization. Manages a team.
+The role is responsible for directing the physical and logical engineering deliverables, workflow and priorities for Global Networks. The Network Engineering Manager must always display good judgment and promotes this philosophy throughout the organization. The person in this role must understand the dynamics of risk vs. speed vs. quality. A fourth element to consider is how those choices impacts costs/finances and commitments. This position is in direct line to the technical services delivery workflow. The position must drive adherence to and the use of standards, product sets, templates, systems and artifacts which are important elements to achieving successful outcomes. They must understand how to identify problems early enough in the process to preserve change windows and dates; how and when to stop Design/Implementations or fight through to a successful completion.
+The Network Manager is a point of escalation, solves problems and is a key decision maker. Areas of knowledge include but not limited to Voice (Enterprise, Trader and Contact Center), Unified/Real-Time Communications, Voice Messaging and Voice Recording (QA and Regulatory), Switched Voice and Transport Services, Cable and Building technologies, IP Network/Wide Area and Optical Technologies, Network Appliance/Firewalls, Extranet, Proxies, DNS/DHCP. The person in this role needs to know how to collaborate.
+This position will interface directly with internal and external customers, network architecture and engineering, deployment and product/service management, operations, vendors, consultants and contractors. Strong written, verbal and presentation skills are a must. The Network Manager is a “thought-leader” and must be able to represent the strategic vision and goals of the organization to various stakeholders and shareholders.
+Key Responsibilities:
+The candidate must understand the many attributes of how designs flow (based upon approved standards), participates in exceptions or new standard reviews and “commission and directs” the installation of all work
+The Network Manager works globally in a federated model with regional execution
+The Network Manger must understand how to schedule large, multi-technology projects for deployment. They must be able to accommodate schedule changes, emergencies, and reprioritizations. A big value is understanding how to leverage projects, change windows and initiatives to create the “most strategic long-term value” for the firm (stacking changes, real estate changes to help with end-of-life equipment replacement, etc.)
+The role is critical in the overall technology delivery lifecycle not only across networks and the entire infrastructure group but also for lines of business initiatives that depend upon services from network technologies
+Key stakeholders are:
+Network Service Initiated (network projects for networks)
+Line of Business demand (key clients/partners who need network services, this is both internal and external customers)
+Global Real Estate (network support for real estate initiatives)
+Required Skills:
+Minimum of 15+ years’ experience required in Network and Network disciplines, project and Service Delivery, Design and Deployment services
+Strong skills in Scripting required; Python, Ansible, PowerShell
+Deep understanding of ITIL; has participated in design and/or deployment of major IT projects
+Experience with SDN; ACI/NSX, Arista CloudVision
+Experience with SDWAN, preferred if on Cloudgenix
+Automation Skills – Expect, Rancid, REST/SOAP
+Experience working in an Agile environment
+Experience in various equipment manufacturers including but not limited to CISCO, Juniper, Arista, Brocade, EMC, HP/Aruba, etc.
+Desired Skills:
+Bachelor’s degree in engineering, computer science, MIS, related field and or technical training
+Advanced technical/business degree
+Must have strong analytical skills and the ability to make real time decisions
+Understands how to manage risk
+Strong background in IT service delivery role (i.e., engineering support for projects)
+Leadership; Leads by Example
+Self-starter and self-directed; Must be a good “coach and teacher”; Shows initiative
+Focused on execution, delivery, and commitment to dates
+Can link strategy and actions to business impact and results
+Demonstrates ownership; must approach work with a “solutions, end to end mindset”
+Is accountable and can hold others accountable
+Ability to communicate and influence upward as well as laterally
+Organized and detail oriented with a strong technical acumen
+Ability to partner with others for the good of the initiative
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40

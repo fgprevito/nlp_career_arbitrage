@@ -1,0 +1,777 @@
+Job Description:
+About Us
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection.  Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Global Business Services
+Global Business Services delivers Technology and Operations capabilities to Lines of Business and Staff Support Functions of Bank of America through a centrally managed, globally integrated delivery model and globally resilient operations.
+Global Business Services is recognized for flawless execution, sound risk management, operational resiliency, operational excellence and innovation.
+In India, we are present in five locations and operate as BA Continuum India Private Limited (BACI), a non-banking subsidiary of Bank of America Corporation and the operating company for India operations of Global Business Services.
+Process Overview*
+Technology Infrastructure part of the Global Technology & Operations organization consists of more than 6,600 employees worldwide. With a presence in more than 35 countries, TI designs, builds and operates end-to-end technology infrastructure solutions and manages critical systems and platforms across the bank. TI delivers industry-leading infrastructure products and services to the company’s employees, customers, and clients around the world.
+Network Services is responsible for designing, building, and operating Bank of America’s global data network and managing our technology partnerships to maximize our strategic business value
+.
+Job Description:
+The technology areas of focus for the Transport Core Network Production Services Specialist includes primarily DWDM Optical Transport Services, along with Enterprise WAN/MAN, and Metro Ethernet. Production Services Specialists are expected to be well versed in numerous networking protocols, technologies and troubleshooting methodology, including the use of proactive and reactive tools. The work is always in alignment to the current and approved Network Services Standards, Incident and Problem Management Policies & Procedures, governance and management policies set forth by the firm.
+This position will interface directly with internal stakeholders and external suppliers/providers, architecture, product engineering, product management, and business management. At times, they may interface with various levels of senior management.  Strong communication and problem-solving skills are a must.  The candidate must be able to work on their own and successfully in team settings in various sizes and locations.  Adherence and use of standards, product sets, templates, systems, and artifacts are important to the success of the individual, the department, and the firm at large.  The Production Services Specialist will be considered a subject matter expert in their field and is expected to stay current with various technologies, organizational goals, and industry trends to drive end to end value.
+Responsibilities
+:
+Operational Support of Internal Transport Core Routing and DWDM Optical environment
+Cisco DWDM, Cisco ASR, Arista 400G platforms / CloudVision, Dark Fiber, Leased Lines
+Technical areas of focus include but are not limited to WAN routing and switching and optical transport services
+Lead production support triage efforts for network infrastructure incidents, manage bridge line troubleshooting and appropriate team engagement, engage in technical research and troubleshooting, and escalate to next level of leadership as needed
+Identify service impact, interpret monitors, dashboards, and logs; Work with senior team members to validate impacts and communicate to internal stakeholders and leadership
+Provide status updates and technical detail for awareness communications, ensure accuracy of all communications sent, and ensure any necessary follow-ups are scheduled.
+Identify possible production failure scenarios, vulnerabilities, and opportunities for improvement, and take ownership of escalation
+Participate in the documentation of application flows, upstream/downstream impacts during outages, the customer experience in failure scenarios, contacts for various support needs and ensures appropriate documents and wikis are up to date and available for use during triage
+Responsible for data quality and completion of incident tickets, including ensuring all impacts are accurately recorded and documented in the system of record.
+Work ad-hoc reports and offline incidents at the direction of the senior team members or leadership
+Promote and enforce production governance during triage/testing and fix efforts, exercises judgment within defined procedures and practices to determine appropriate action.
+Must adhere to design standards and global design authority processes and procedures.
+The ability to assemble professional documents based on existing templates and ability to provide accurate work descriptions with assumptions, and caveats.
+Requirements:
+4+ years of monitoring and troubleshooting DWDM (Dense wavelength-division multiplexing)
+Triaging dark fiber issues with the carriers
+Creating and updating Incident tickets
+Education:
+Bachelor degree in Engineering or Computer Science (Master’s degree preferred)
+Certifications if any:
+NA
+Experience Range
+: 6+ years of experience
+Foundational skills:
+Experience with Network technologies
+Core LAN/MAN/WAN Technologies – IPv4, L2VPN MPLS-E Segment Routing, ISIS Lvl2, Mulicast mLDP, BGP EIGRP QoS UDP OSPF MetroE, DWDM, Dark Fiber, Carrier Circuits Leased Line, Broadband, Direct Internet Access, Tunneling protocols (MACSEC, IPSEC SSL/TLS, GRE, DMVPN), Routers, Switches, NHRP, IPv6, ACL, VPN
+Understanding of metro, long-haul and subsea optical networking fundamentals, and industry evolution, including operational & resiliency aspects
+Experience with troubleshooting complex networking problems
+Experience with JIRA, Confluence, Agile framework & SCRUM ceremonies
+Understand configuration management with tools such as Forward Networks and HPNA
+Experience using (both proactive and reactive) advanced tooling; Inclusive of but not limited to SevOne, Splunk, Netscout, Wireshark, NDC, HPNA, NNMI, OBM, IBM Watson, NSO, etc.
+General experience in Network Automation tools and processes
+Self-starter/self-directed, organized and detail oriented
+Strong technical acumen and analytical skills
+Excellent client interfacing skills
+Strong verbal and written communication skills and ability to work with all levels of management
+Experience aligning actions to business impact and service restoral
+Demonstrates ownership: Is accountable and can hold others accountable (professionally)
+Experience operating with colleagues across different time zones with a flexible approach to working hours (ability to work varied hours) to successfully interact and communicate on a global level
+Desired Skills:
+Experience in Networking-related disciplines within a design, implementation, or operations role
+Relevant Industry certifications in Network Technologies
+Cloud or SDN knowledge and experience
+Experience with SDN; Cisco ACI, VMware NSX, Arista CloudVision
+Experience with SDWAN, preferred if on Cloudgenix
+Experience with automation tools such as Python, Ansible, YAML or Django, API calls (to ticketing systems and network devices), and frontend web development
+Experience working in an Agile environment
+Experience of working within Financial Services (Insurance, Banking, Investment banking)
+Experience with other network technologies
+Firewall, Proxy/Threat Prevention, DDI, Load Balancing, and AAA
+Work timings
+: 6.30 am - 10.30 pm (9 hours rotational)
+Job location:
+Hyderabad, Chennai
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for new client acquisition, deepening client relationships and building upon an internal and external network to achieve business development goals. The Private Client Advisor leads the client management process (CMP) and partners across the enterprise to provide a branded client experience (BCE), including access to the full array of Private Bank and Bank of America capabilities and services, to meet specific client needs. Retention of clients is also critical to the Private Client Advisor role. This position is subject to SAFE Act registration requirements. Pursuant to the SAFE Act requirements, all employees engaged in residential loan mortgage originations must register with the federal registry system and remain in good standing. Since your position requires SAFE Act registration, you will be required to register and to submit to the required SAFE Act background check and registration process. Failure to obtain and/or maintain SAFE Act registration may result in disciplinary action up to and including termination.
+Responsibilities:
+• Leads the CMP (client management process) within the client team to identify new business development opportunities
+• Sources new clients in alignment with established risk appetite
+• Leads the client team to deliver meaningful interactions and a branded client experience
+• Develops an in-depth understanding of clients’ needs, preferences and overall wealth strategy; being responsive to changes in the business environment and/or with client needs
+• Advocates for clients and prospects as their trusted advisor providing integrated recommendations including wealth structuring, credit facilities, banking and asset management
+• Encourages use and adoption of digital capabilities to enhance the client and client team experience
+• Builds relationships with internal and external partners and centers of influence
+Required skills:
+• 12+ years of private banking or complex financial services experience OR minimal equivalent of a bachelor degree
+• Responsible for driving new business development for target client segment ($3MM++ investable assets)
+• Present to clients a holistic approach, leveraging the entire Private Bank platform
+• A high touch, client-focused individual with exceptional interpersonal skills
+• A leader who recognizes opportunities for client engagement and proactively acts upon them for the betterment of the client
+• Ability to influence; proactively asks for and closes business
+• Solutions oriented; sales and financial aptitude a must
+• Must be a skilled negotiator
+• Ability to work and identify the need for team specialists; collaborate closely with other team members
+• Takes on a leadership role on the team and within the business community
+• Series 7, 63 and 65 (or Series 7 and 66) required (may gain licenses after start - unlicensed candidates may be considered if willing to obtain licenses within 90 days of start date)
+Desired skills:
+• MBA or Post-Graduate Degree preferred
+• CFP, CPA, CFA, CTFA, CFM or JD a significant plus
+Skills Used in this Role:
+• Business development
+• Prospecting and Qualification
+• Oral Communication
+• Investment Products and Solutions
+• Client team management
+• Influencing
+• Consulting
+• Problem Solving
+• Investment Products and Solutions
+• Advisory Sales
+• Pipeline management
+• Active Listening
+• Collaboration
+• Transitioning client conversations
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for engaging clients in the lobby to educate and assist with conducting transactions through self-service resources such as mobile banking, online banking, or ATM. This role also accurately and efficiently processes cash transactions for clients as needed. Relationship bankers have deep conversations with clients to gain in-depth knowledge of their financial and life priorities.
+A Relationship Banker (responsibilities):
+• Executes the bank's risk culture and strives for operational excellence
+• Builds relationships with individual clients to meet their financial needs
+• Follows established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations
+• Grows business knowledge and network by partnering with experts in small business, lending and investments
+• Manages financial center traffic, appointments and outbound calls effectively
+• Drives the client experience
+• Manages cash responsibilities
+You’re a person who (required skills):
+• Is an enthusiastic, highly motivated self-starter with a strong work ethic and intense focus on results, acting in the best interest of the client.
+• Collaborates effectively to get things done, building and nurturing strong relationships.
+• Displays passion, commitment and drive to deliver an experience that improves our clients’ financial lives.
+• Is confident in identifying solutions for new and existing clients based on their needs.
+• Communicates effectively and confidently, and is comfortable engaging all clients.
+• Has the ability to learn and adapt to new information and technology platforms.
+• Is confident in educating clients on how to conduct simple banking transactions through self-service technologies (for example, ATM, online banking, mobile banking).
+• Applies strong critical thinking and problem-solving skills to meet clients’ needs.
+• Will follow established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations.
+• Efficiently manages your time and capacity.
+• Focuses on results, while acting in the best interest of the client.
+• Can be flexible to work weekends and/or extended hours as needed.
+You’ll be more prepared if you have (desired skills):
+• Experience in financial services and knowledge of financial services industry, products and solutions.
+• One year of demonstrated successful sales experience in a salary plus incentive environment with individual sales goals.
+• Six months of cash handling experience.
+• Bachelor’s degree or business relevant associate degree such as business management, business administration, or finance.
+Skills Used in this Role:
+• Customer Service
+• Risk Management
+• Consumer Products and Solutions
+• Overcoming Objections
+• Risk Management
+• Cash Management
+• Demonstrating Technology
+• Relationship Management
+• Active Listening
+• Learning Agility
+• Problem Solving
+• Critical Thinking
+• Multitasking
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for engaging clients in the lobby to educate and assist with conducting transactions through self-service resources such as mobile banking, online banking, or ATM. This role also accurately and efficiently processes cash transactions for clients as needed. Relationship bankers have deep conversations with clients to gain in-depth knowledge of their financial and life priorities.
+A Relationship Banker (responsibilities):
+• Executes the bank's risk culture and strives for operational excellence
+• Builds relationships with individual clients to meet their financial needs
+• Follows established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations
+• Grows business knowledge and network by partnering with experts in small business, lending and investments
+• Manages financial center traffic, appointments and outbound calls effectively
+• Drives the client experience
+• Manages cash responsibilities
+You’re a person who (required skills):
+• Is an enthusiastic, highly motivated self-starter with a strong work ethic and intense focus on results, acting in the best interest of the client.
+• Collaborates effectively to get things done, building and nurturing strong relationships.
+• Displays passion, commitment and drive to deliver an experience that improves our clients’ financial lives.
+• Is confident in identifying solutions for new and existing clients based on their needs.
+• Communicates effectively and confidently, and is comfortable engaging all clients.
+• Has the ability to learn and adapt to new information and technology platforms.
+• Is confident in educating clients on how to conduct simple banking transactions through self-service technologies (for example, ATM, online banking, mobile banking).
+• Applies strong critical thinking and problem-solving skills to meet clients’ needs.
+• Will follow established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations.
+• Efficiently manages your time and capacity.
+• Focuses on results, while acting in the best interest of the client.
+• Can be flexible to work weekends and/or extended hours as needed.
+You’ll be more prepared if you have (desired skills):
+• Experience in financial services and knowledge of financial services industry, products and solutions.
+• One year of demonstrated successful sales experience in a salary plus incentive environment with individual sales goals.
+• Six months of cash handling experience.
+• Bachelor’s degree or business relevant associate degree such as business management, business administration, or finance.
+Skills Used in this Role:
+• Customer Service
+• Risk Management
+• Consumer Products and Solutions
+• Overcoming Objections
+• Risk Management
+• Cash Management
+• Demonstrating Technology
+• Relationship Management
+• Active Listening
+• Learning Agility
+• Problem Solving
+• Critical Thinking
+• Multitasking
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for new client acquisition, deepening client relationships and building upon an internal and external network to achieve business development goals. The Private Client Advisor leads the client management process (CMP) and partners across the enterprise to provide a branded client experience (BCE), including access to the full array of Private Bank and Bank of America capabilities and services, to meet specific client needs. Retention of clients is also critical to the Private Client Advisor role. This position is subject to SAFE Act registration requirements. Pursuant to the SAFE Act requirements, all employees engaged in residential loan mortgage originations must register with the federal registry system and remain in good standing. Since your position requires SAFE Act registration, you will be required to register and to submit to the required SAFE Act background check and registration process. Failure to obtain and/or maintain SAFE Act registration may result in disciplinary action up to and including termination.
+Responsibilities:
+• Leads the CMP (client management process) within the client team to identify new business development opportunities
+• Sources new clients in alignment with established risk appetite
+• Leads the client team to deliver meaningful interactions and a branded client experience
+• Develops an in-depth understanding of clients’ needs, preferences and overall wealth strategy; being responsive to changes in the business environment and/or with client needs
+• Advocates for clients and prospects as their trusted advisor providing integrated recommendations including wealth structuring, credit facilities, banking and asset management
+• Encourages use and adoption of digital capabilities to enhance the client and client team experience
+• Builds relationships with internal and external partners and centers of influence
+Required skills:
+• 12+ years of private banking or complex financial services experience OR minimal equivalent of a bachelor degree
+• Responsible for driving new business development for target client segment ($3MM++ investable assets)
+• Present to clients a holistic approach, leveraging the entire Private Bank platform
+• A high touch, client-focused individual with exceptional interpersonal skills
+• A leader who recognizes opportunities for client engagement and proactively acts upon them for the betterment of the client
+• Ability to influence; proactively asks for and closes business
+• Solutions oriented; sales and financial aptitude a must
+• Must be a skilled negotiator
+• Ability to work and identify the need for team specialists; collaborate closely with other team members
+• Takes on a leadership role on the team and within the business community
+• Series 7, 63 and 65 (or Series 7 and 66) required (may gain licenses after start - unlicensed candidates may be considered if willing to obtain licenses within 90 days of start date)
+Desired skills:
+• MBA or Post-Graduate Degree preferred
+• CFP, CPA, CFA, CTFA, CFM or JD a significant plus
+Skills Used in this Role:
+• Business development
+• Prospecting and Qualification
+• Oral Communication
+• Investment Products and Solutions
+• Client team management
+• Influencing
+• Consulting
+• Problem Solving
+• Investment Products and Solutions
+• Advisory Sales
+• Pipeline management
+• Active Listening
+• Collaboration
+• Transitioning client conversations
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+About Us
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection.
+Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Your background
+Proven experience handling Information Security related events and incidents
+Experience in an operations focused role with an emphasis on cyber incident response
+Demonstrable experience in the coordination of containment activities related to cyber security incidents
+Familiarity with security vulnerabilities exploits and APT tools, techniques, and procedures
+Familiarity with network security vulnerabilities, exploits, malware, and digital forensics desirable
+An excellent verbal and written communicator who can adapt to their audience
+Decisive and can make difficult decisions in what can be a high-pressure environment
+Exercise independent judgment in methods, techniques, and evaluation criteria for obtaining results
+Able to handle multiple competing priorities in a fast-paced environment and act without causing an undue delay
+Supportive and can work well as part of a team as well as independently
+Ability to remain calm under pressure
+Ability to work in a strong team-orientated environment with a sense of urgency and resilience
+Must be able to think outside the box and develop solutions to accomplish seemingly impossible tasks whilst remaining risk and objective focused, with an investigative mindset
+Security+ or equivalent certification
+GCIH or equivalent certification required within six months of employment.
+What you can expect
+Cyber Incident Response and Management is part of the Cyber Response & Recovery division who provides a globally coordinated and managed response capability for information security events and incidents that may impact the confidentiality, integrity, and/or availability of the Bank’s information and information systems or has privacy implications.
+The role of the Senior Incident Manager is to coordinate the response and recovery activities from information security incidents. This includes collaboration with appropriate response, assist with determining the root cause of incidents and work with stakeholders and responsible parties to remediate any identified control gaps or failures; Escalate issues to management in a timely manner with appropriate information regarding severity, exposure, and action items; this role requires critical thinking and investigative mindset coupled effective written, and verbal communication skills.
+This is a senior role on the team with high visibility at the global level including interacting with and providing direct updates to executives and senior leadership stakeholders. A Senior Incident Manager provides their knowledge and expertise in incident response to lead, mentor, and challenge associates on the team. The team conducts follow-the-sun (FTS) operations which you will work closely with AMRS and APAC regions.
+What you will do
+Establish oversight of information security events and cyber incidents and communicate analysis, containment and remediation efforts to all business partners.
+Cyber incident response and recovery plans will be available to use and should be maintained by the team. Any issues that require management escalation will be expected to be completed in a timely manner including all appropriate information in relation to risk and action times.
+The Cyber Incident Manager will be expected to provide status updates and post-incident findings for executives and stakeholders in non-technical terms encompassing risk, impact, likelihood, containment and remediation activities and threat actors.
+Risk management including briefing and recommending actions to executive leadership within Global Information Security and other business partners on events and incidents
+The incident manager will be part of a global 24/7/365 follow-the-sun rotation and there is a requirement to work 3-5 weekends per year on an on-call basis as a primary contact and 2-3 weekends as a secondary contact. There will also be a requirement to cover holidays for other regions.
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for new client acquisition, deepening client relationships and building upon an internal and external network to achieve business development goals. The Private Client Advisor leads the client management process (CMP) and partners across the enterprise to provide a branded client experience (BCE), including access to the full array of Private Bank and Bank of America capabilities and services, to meet specific client needs. Retention of clients is also critical to the Private Client Advisor role. This position is subject to SAFE Act registration requirements. Pursuant to the SAFE Act requirements, all employees engaged in residential loan mortgage originations must register with the federal registry system and remain in good standing. Since your position requires SAFE Act registration, you will be required to register and to submit to the required SAFE Act background check and registration process. Failure to obtain and/or maintain SAFE Act registration may result in disciplinary action up to and including termination.
+Responsibilities:
+• Leads the CMP (client management process) within the client team to identify new business development opportunities
+• Sources new clients in alignment with established risk appetite
+• Leads the client team to deliver meaningful interactions and a branded client experience
+• Develops an in-depth understanding of clients’ needs, preferences and overall wealth strategy; being responsive to changes in the business environment and/or with client needs
+• Advocates for clients and prospects as their trusted advisor providing integrated recommendations including wealth structuring, credit facilities, banking and asset management
+• Encourages use and adoption of digital capabilities to enhance the client and client team experience
+• Builds relationships with internal and external partners and centers of influence
+Required skills:
+• 12+ years of private banking or complex financial services experience OR minimal equivalent of a bachelor degree
+• Responsible for driving new business development for target client segment ($3MM++ investable assets)
+• Present to clients a holistic approach, leveraging the entire Private Bank platform
+• A high touch, client-focused individual with exceptional interpersonal skills
+• A leader who recognizes opportunities for client engagement and proactively acts upon them for the betterment of the client
+• Ability to influence; proactively asks for and closes business
+• Solutions oriented; sales and financial aptitude a must
+• Must be a skilled negotiator
+• Ability to work and identify the need for team specialists; collaborate closely with other team members
+• Takes on a leadership role on the team and within the business community
+• Series 7, 63 and 65 (or Series 7 and 66) required (may gain licenses after start - unlicensed candidates may be considered if willing to obtain licenses within 90 days of start date)
+Desired skills:
+• MBA or Post-Graduate Degree preferred
+• CFP, CPA, CFA, CTFA, CFM or JD a significant plus
+Skills Used in this Role:
+• Business development
+• Prospecting and Qualification
+• Oral Communication
+• Investment Products and Solutions
+• Client team management
+• Influencing
+• Consulting
+• Problem Solving
+• Investment Products and Solutions
+• Advisory Sales
+• Pipeline management
+• Active Listening
+• Collaboration
+• Transitioning client conversations
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+Job Title: Sr Information Security Architect
+Corporate Title:  Vice President
+Location: Dublin
+Company Overview:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection.  Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Location Overview:
+At our Central Park office, Leopardstown, you will find our state-of-the-art facilities based in Dublin’s premium business park. With an onsite gym, staff restaurant and coffee shop, all your daily needs are conveniently catered for. There are also a range of travel options available to staff, including the LUAS network and the Central Park shuttle service between Dublin City Centre and Central Park, which means getting to work has never been so easy.
+Role description:
+The Senior Information Security Architect will be a member of the Business Information Security Officer's (BISO) Secure Solutions Design team and work closely with the line of business technical and project teams to deliver strategic projects.
+Due to growth, we have this additional role within the Global Information Security (GIS) team.  The role is a Vice President role based in Dublin.  It will be an individual contributor role but will influence and direct activities of a team related to special initiatives or operations.
+Responsibilities:
+You would participate and guide the development of system architectures and conduct security and business information flow studies.
+You would provide integrated systems reviews and recommends new or different technologies that will enhance current system security and support overall corporate and business goals.
+You would conduct system architecture security studies of new and existing IT systems to ensure systems operate within Bank of America’s security policies.
+You would recommend design components to secure the system and align with Global Information Security policies and risk tolerance.
+Interface with vendors, consultants, and senior technologists to support the business indicatives and goals.
+You’d serve as a fully seasoned/proficient technical security resource; accountability is for technical and security knowledge and capabilities as a team member or as an individual contributor.
+What we are looking for:
+Seasoned Information Security and IT experience.
+Expertise in creation and review of technical diagrams of infrastructure and data flow diagram using Visio.
+Expertise in creation of threat models using STRIDE methodology using Microsoft Threat Modelling Tool or comparable tools.
+Experience with various enterprise technology domains such as cloud (Azure, AWS, GCP), networking, cryptography, identity and access management, and virtualization and containers.
+Capable of creating documentation to articulate the results of the system architecture security studies.
+Ability to educate teams on Global Information Security policies and the risks of non-compliance.
+Good communication, writing, and presentation skills
+Skills that will help:
+Industry recognized Information Security certifications – CISSP, CISM, CRISC, CISA, CCSP, CCSK or any other well recognized vendor specific certifications
+Experience in using other similar threat modelling tools and methodologies.
+Benefits of working at Bank of America
+Ireland
+Private healthcare for you and your family plus an annual health screen to help you manage your physical wellness with the option to purchase a screen for your partner
+Competitive pension plan, life assurance and group income protection cover if you become unable to work as a result of a disability or health reasons
+20 days of back-up childcare including virtual tutoring and 20 days of adult-care per annum
+Ability to change your core benefits as well as the option of selecting a variety of flexible benefits to suit your personal circumstances including access to a wellbeing account, travel insurance, specified illness cover etc
+Use of a flex fund to use towards benefits
+Access to free counselling through an Employee Assistance Programme and virtual GP services
+Opportunity to donate to charities of your choice directly through payroll and the bank will match your contribution
+Opportunity to join our Arts & Culture corporate membership programme and receive discounted entry to some of the UK and Ireland’s most iconic cultural institutions
+Opportunity to give back to your community, develop new skills and work with new groups of people by volunteering in your local area
+Bank of America
+Good conduct and sound judgment is crucial to our long term success. It’s important that all employees in the organisation understand the expected standards of conduct and how we manage conduct risk. Individual accountability and an ownership mind-set are the cornerstones of our Code of Conduct and are at the heart of managing risk well.
+We are an equal opportunities employer, and ensure that no applicant is subject to less favourable treatment on the grounds of gender, gender identity, marital status, race, colour, nationality, ethnic or national origins, age, sexual orientation, socio-economic background, responsibilities for dependents, physical or mental disability. The Bank selects candidates for interview based on their skills, qualifications and experience.
+We strive to ensure that our recruitment processes are accessible for all candidates and encourage any candidates to tell us about any adjustment requirements.
+
+---
+
+Job Description:
+The GB & GM AML Business Controls team within the Global Credit, AML & Onboarding Operations (GCAOO) organization, is responsible for monitoring and managing the effectiveness and adequacy of the risk and control environment by providing independent oversight, conduct assessments, act as a trusted advisor, promote a robust risk culture and strengthen the control environment across the organization. In addition, the GB & GM AML Business Controls team partners with Operations to identify and escalate issues, improve processes and controls, supports horizontal work efforts, audit issue management, regulatory exams, audits and inquiries for the GB & GM businesses and jurisdictions within GCAOO.
+This role is to lead the GB & GM AML Business Controls reporting to the Head of AML Business Controls & Risk who support the GB & GM businesses within GCAOO. We are seeking a highly motivated individual to drive and execute the AML Business Control function, has the right level of experience and the ability to influence stakeholders at all levels within the organization. The role involves partnering with the business and support functions including Global Financial Crimes (GFC) and Audit.
+Job Responsibilities
+:
+As a member of the Operations Risk & Control team, the position will be responsible for Process Risk & Control functions supporting the Line of Business. Responsibilities include:
+Manage, develop and oversee controls for a line of business
+Enhance, design, implement and provide ongoing oversight to the LOB Control environment through  metrics, implementation of QA/QC processes and ongoing monitoring and testing of controls
+Identify issues and/or control improvements for remediation, whilst assisting in building out action plans and milestones. Institute routines to oversee progress of risk mitigation efforts and mange timelines for issue closure
+Partner closely with senior management, Compliance and other control partners to develop strategies, tools and reporting capabilities to strengthen current controls.
+Assist in the execution of internal control discipline and operational excellence within a LOB
+Support lines of business through routine exams with regulators and internal audit
+Take an active part in and lead risk and compliance related projects and assessments
+Core Skills
+:
+7+ Years of risk management and/or Operations Experience
+Excellent written and verbal communication skills – ability to tailor messaging to senior management
+Able to understand, analyze, and explain complex workflows
+Self-Starter who can work independently with little guidance or direction
+Ability to meet tight deadlines while working in a flexible environment
+Attention to laws, rules & regulations
+High technical expertise in MS Office platforms
+Desirable Skills
+:
+Audit, Global Markets, and/or Finance/Accounting experience
+Project management experience
+Ability to analyze, comprehend, and document complex processes
+Highly analytical – Able to work with large data sets and workflows
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+Global Renewable Energy
+Credit overview:
+Embedded across the bank’s eight lines of business, the
+Global Renewable Energy
+Credit team reflects the bank’s initiative to fuel the global economy, build trust and credibility with communities, and represents a company that people want to work for, invest in, and do business with. The
+Global Renewable Energy
+Credit team supports the continued growth in sustainable, renewable, and green finance and further deliver on the bank’s commitment to help society transition to a low-carbon economy. The
+Global Renewable Energy
+Credit Team covers transactions for Corporate Lending and Project Finance through the involvement in the origination and underwriting of transactions and the ongoing portfolio management process.
+Primary roles and responsibilities:
+Perform financial, business and industry analyses, conduct research, and prepare supporting documentation for transaction credit approval. Ultimately the role is responsible for managing the end-to-end credit approval process to ensure quality of work and timeline management of deliverables.
+Other responsibilities:
+- Underwriting of
+Structured/Complex
+Credits, Treasury, and Capital Markets Products
+- Relevant understanding of macro-economic environment risks, specific industry risks, transaction specific risks and their interrelationship and impact on any given transaction
+- Effective and consistent compliance to established credit and control procedures
+- Demonstrate a foundational understanding of ISDA/CSA and other traded products documentation with the ability to partner with Sr. Officer and/or Industry Lead to establish appropriate terms and conditions to mitigate risk and negotiate said documentation with the counterparty
+- Understanding of the Global Banking & Markets complex product spectrum including; Treasury/Cash Management, Syndications, Merger & Acquisitions (M&A), FX, Derivatives, Securities Products, Commodities, Loans, Leases and other Traded Products
+- Responsible for driving speed to market and asset quality.
+- Must be able to handle multiple projects, deliver high quality and timely results, and provide appropriate coaching and development to junior teammates
+Required skills:
+“Must” have these skills to be minimally qualified.
+- Minimum 3 years of experience in Commercial Credit, Corporate Credit or Project Finance
+- Ability to analyze financial statements, conduct due diligence, and prepare credit proposals
+- Experience analyzing investment and sub-investment grade credit profiles and structures
+- Strong written and verbal communication skills
+- Sound commercial judgment and strong business acumen
+- Knowledge of corporate finance and credit products including loans, derivatives, trade finance, cash management
+- Ability to work independently, build internal and external relationships, and manage multiple stakeholders
+- Demonstrates intellectual curiosity and is focused on continuous learning and skill building
+- BA degree in Finance or related major
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+About Us
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection.  Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities, and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Your background
+5+ Years of relevant work experience in Anti-Money Laundering, Fraud and/or Economic Sanctions
+Strong written and verbal communication skills and the ability to communicate and work with all levels within the organization
+Sound risk management skills and an ability to apply discernment, take decisions when required and to escalate concerns when necessary
+Must possess excellent time-management, problem solving, and critical thinking capabilities
+Ability to work across a matrix organization
+Desired Skills
+Subject matter knowledge and experience in anti-money laundering (AML), Fraud and Economic Sanctions regulations in APAC
+Certified Anti-Money Laundering Specialist (CAMS) certification;
+Understanding of Banking products and Financial Crimes vulnerabilities
+Bachelor's Degree
+What you can expect
+The selected candidate will act as Guangzhou Money Laundering Reporting Officer (MLROs) executing on risk management activities. Responsibilities include partnering across GFC and Front-Line Units (FLU) to oversee financial crimes risk and to provide support on broader financial crimes risk associated with Asia clients, products and services.
+What you will do
+Identification and assessment of regulatory change and its impact to the branch. Review of Country Standard to ensure it reflects local AML/CFT regulatory requirements for Financial Crimes.
+Perform monitoring and testing activities of Front Line Unit (FLU) and control function (CF) -owned processes related to Customer Due Diligence activities against relevant AML/CFT law, rules and regulations, Non-Financial Regulatory Reporting, or other activities as required.
+Conduct financial crimes risk assessements of process risk, control and capability effectiveness across the branch
+Preparation of governance materials
+Identify, aggregate, report and escalate financial crimes risks, issues and control enhancements.
+Identify country financial crimes training needs and monitor FLU, CF and third party completion.
+Assist with preparation for, and participate in, financial crimes related regulatory exams and audits.
+Escalate financial crimes concerns to the Global Financial Crimes Manager or Executive.
+
+---
+
+Job Description:
+Embedded across the bank’s eight lines of business, the
+Global Renewable Energy
+Credit team reflects the bank’s initiative to fuel the global economy, build trust and credibility with communities, and represents a company that people want to work for, invest in, and do business with. The
+Global Renewable Energy
+Credit team supports the continued growth in sustainable, renewable, and green finance and further deliver on the bank’s commitment to help society transition to a low-carbon economy. The
+Global Renewable Energy
+Credit Team covers transactions for Corporate Lending and Project Finance through the involvement in the origination and underwriting of transactions and the ongoing portfolio management process.
+Responsibilities include:
+Primary account responsibility for a complex portfolio of Commercial and
+Corporate Clients in GRE Credit.
+- Structure complex transactions and negotiate credit documentation to
+mitigate risk appropriately
+- Solid communication and presentation skills; team player with a
+positive attitude
+- Develop and maintain a deep understanding of the industry and an
+assigned portfolio of clients to assess risk solutions that balance risk and
+return
+- Develop and maintain a deep understanding of the Global Banking &
+Markets product spectrum
+- Develop and maintain strategic partnerships with Corporate Banking,
+Investment Banking, Global Markets and Treasury Management
+- Independently develop high quality credit analysis with a focus on
+business rationale, key risks, sources of repayment, projections, and
+returns/profitability
+- Independently assess, diligence, and make justifiable credit
+recommendations
+- Establish appropriate internal risk ratings for clients and implement
+accurate adjustments throughout the clients’ credit life cycle
+- Participate in strategic projects to support business goals.
+- Informal management responsibility for Analysts and Associates on the
+team
+- Responsible for driving portfolio asset quality and speed to market
+*Required Skills
+:
+“
+Must”
+have these skills to be minimally qualified. - 7 - 10 years’ experience in Commercial Credit, Corporate Credit or Project Finance environment, with understanding of loans, trading, and treasury products
+- Able to soundly manage the portfolio and justify rationale for recommended transactions
+- Must have ability to manage the most complex transactions, possess strong credit skills and transaction experience, and demonstrate the ability to work with senior officers, business partners, and clients
+- Must be able to independently lead diligence efforts, make approval recommendations, negotiate loan documentation, and execute timely closings
+- Requires effective communication style and ability to manage multiple priorities - must be a team player
+-BA Degree in Finance or related major
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for new client acquisition, deepening client relationships and building upon an internal and external network to achieve business development goals. The Private Client Advisor leads the client management process (CMP) and partners across the enterprise to provide a branded client experience (BCE), including access to the full array of Private Bank and Bank of America capabilities and services, to meet specific client needs. Retention of clients is also critical to the Private Client Advisor role. This position is subject to SAFE Act registration requirements. Pursuant to the SAFE Act requirements, all employees engaged in residential loan mortgage originations must register with the federal registry system and remain in good standing. Since your position requires SAFE Act registration, you will be required to register and to submit to the required SAFE Act background check and registration process. Failure to obtain and/or maintain SAFE Act registration may result in disciplinary action up to and including termination.
+Responsibilities:
+• Leads the CMP (client management process) within the client team to identify new business development opportunities
+• Sources new clients in alignment with established risk appetite
+• Leads the client team to deliver meaningful interactions and a branded client experience
+• Develops an in-depth understanding of clients’ needs, preferences and overall wealth strategy; being responsive to changes in the business environment and/or with client needs
+• Advocates for clients and prospects as their trusted advisor providing integrated recommendations including wealth structuring, credit facilities, banking and asset management
+• Encourages use and adoption of digital capabilities to enhance the client and client team experience
+• Builds relationships with internal and external partners and centers of influence
+Required skills:
+• 12+ years of private banking or complex financial services experience OR minimal equivalent of a bachelor degree
+• Responsible for driving new business development for target client segment ($3MM++ investable assets)
+• Present to clients a holistic approach, leveraging the entire Private Bank platform
+• A high touch, client-focused individual with exceptional interpersonal skills
+• A leader who recognizes opportunities for client engagement and proactively acts upon them for the betterment of the client
+• Ability to influence; proactively asks for and closes business
+• Solutions oriented; sales and financial aptitude a must
+• Must be a skilled negotiator
+• Ability to work and identify the need for team specialists; collaborate closely with other team members
+• Takes on a leadership role on the team and within the business community
+• Series 7, 63 and 65 (or Series 7 and 66) required (may gain licenses after start - unlicensed candidates may be considered if willing to obtain licenses within 90 days of start date)
+Desired skills:
+• MBA or Post-Graduate Degree preferred
+• CFP, CPA, CFA, CTFA, CFM or JD a significant plus
+Skills Used in this Role:
+• Business development
+• Prospecting and Qualification
+• Oral Communication
+• Investment Products and Solutions
+• Client team management
+• Influencing
+• Consulting
+• Problem Solving
+• Investment Products and Solutions
+• Advisory Sales
+• Pipeline management
+• Active Listening
+• Collaboration
+• Transitioning client conversations
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for engaging clients in the lobby to educate and assist with conducting transactions through self-service resources such as mobile banking, online banking, or ATM. This role also accurately and efficiently processes cash transactions for clients as needed. Relationship bankers have deep conversations with clients to gain in-depth knowledge of their financial and life priorities.
+A Relationship Banker (responsibilities):
+• Executes the bank's risk culture and strives for operational excellence
+• Builds relationships with individual clients to meet their financial needs
+• Follows established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations
+• Grows business knowledge and network by partnering with experts in small business, lending and investments
+• Manages financial center traffic, appointments and outbound calls effectively
+• Drives the client experience
+• Manages cash responsibilities
+You’re a person who (required skills):
+• Is an enthusiastic, highly motivated self-starter with a strong work ethic and intense focus on results, acting in the best interest of the client.
+• Collaborates effectively to get things done, building and nurturing strong relationships.
+• Displays passion, commitment and drive to deliver an experience that improves our clients’ financial lives.
+• Is confident in identifying solutions for new and existing clients based on their needs.
+• Communicates effectively and confidently, and is comfortable engaging all clients.
+• Has the ability to learn and adapt to new information and technology platforms.
+• Is confident in educating clients on how to conduct simple banking transactions through self-service technologies (for example, ATM, online banking, mobile banking).
+• Applies strong critical thinking and problem-solving skills to meet clients’ needs.
+• Will follow established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations.
+• Efficiently manages your time and capacity.
+• Focuses on results, while acting in the best interest of the client.
+• Can be flexible to work weekends and/or extended hours as needed.
+You’ll be more prepared if you have (desired skills):
+• Experience in financial services and knowledge of financial services industry, products and solutions.
+• One year of demonstrated successful sales experience in a salary plus incentive environment with individual sales goals.
+• Six months of cash handling experience.
+• Bachelor’s degree or business relevant associate degree such as business management, business administration, or finance.
+Skills Used in this Role:
+• Customer Service
+• Risk Management
+• Consumer Products and Solutions
+• Overcoming Objections
+• Risk Management
+• Cash Management
+• Demonstrating Technology
+• Relationship Management
+• Active Listening
+• Learning Agility
+• Problem Solving
+• Critical Thinking
+• Multitasking
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. Responsible Growth is how we run our company and how we deliver for our clients, teammates, communities and shareholders every day.
+One of the keys to driving Responsible Growth is being a great place to work for our teammates around the world. We’re devoted to being a diverse and inclusive workplace for everyone. We hire individuals with a broad range of backgrounds and experiences and invest heavily in our teammates and their families by offering competitive benefits to support their physical, emotional, and financial well-being.
+Bank of America believes both in the importance of working together and offering flexibility to our employees. We use a multi-faceted approach for flexibility, depending on the various roles in our organization.
+Working at Bank of America will give you a great career with opportunities to learn, grow and make an impact, along with the power to make a difference. Join us!
+Job Description:
+This role is responsible for engaging clients in the lobby to educate and assist with conducting transactions through self-service resources such as mobile banking, online banking, or ATM. This role also accurately and efficiently processes cash transactions for clients as needed. Relationship bankers have deep conversations with clients to gain in-depth knowledge of their financial and life priorities.
+A Relationship Banker (responsibilities):
+• Executes the bank's risk culture and strives for operational excellence
+• Builds relationships with individual clients to meet their financial needs
+• Follows established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations
+• Grows business knowledge and network by partnering with experts in small business, lending and investments
+• Manages financial center traffic, appointments and outbound calls effectively
+• Drives the client experience
+• Manages cash responsibilities
+You’re a person who (required skills):
+• Is an enthusiastic, highly motivated self-starter with a strong work ethic and intense focus on results, acting in the best interest of the client.
+• Collaborates effectively to get things done, building and nurturing strong relationships.
+• Displays passion, commitment and drive to deliver an experience that improves our clients’ financial lives.
+• Is confident in identifying solutions for new and existing clients based on their needs.
+• Communicates effectively and confidently, and is comfortable engaging all clients.
+• Has the ability to learn and adapt to new information and technology platforms.
+• Is confident in educating clients on how to conduct simple banking transactions through self-service technologies (for example, ATM, online banking, mobile banking).
+• Applies strong critical thinking and problem-solving skills to meet clients’ needs.
+• Will follow established processes and guidelines in daily activities to do what is right for clients and the bank, adhering to all applicable laws and regulations.
+• Efficiently manages your time and capacity.
+• Focuses on results, while acting in the best interest of the client.
+• Can be flexible to work weekends and/or extended hours as needed.
+You’ll be more prepared if you have (desired skills):
+• Experience in financial services and knowledge of financial services industry, products and solutions.
+• One year of demonstrated successful sales experience in a salary plus incentive environment with individual sales goals.
+• Six months of cash handling experience.
+• Bachelor’s degree or business relevant associate degree such as business management, business administration, or finance.
+Skills Used in this Role:
+• Customer Service
+• Risk Management
+• Consumer Products and Solutions
+• Overcoming Objections
+• Risk Management
+• Cash Management
+• Demonstrating Technology
+• Relationship Management
+• Active Listening
+• Learning Agility
+• Problem Solving
+• Critical Thinking
+• Multitasking
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
+Job Description:
+The Power and Energy Transition team is actively seeking a Vice President who will be responsible for supporting senior investment bankers in execution of M&A, capital markets and financing from a sector perspective, as well as supporting in deal origination and relationship management.
+Energy Transition:
+The group’s energy transition activities are primarily centered around decarbonization, digitalization and decentralization of the energy and power value chains
+An ideal candidate would be excited about the Energy Transition Space (Wind, Solar, Batteries, Renewable Fuels, Carbon Capture, Hydrogen), where BofA is a clear leader, substantially ahead of competitors
+Significant room to drive client coverage and execution of marquee transactions: lots of initiative required
+Opportunities across all the major IBK product lines: IPO, M&A, Private Capital as well as interaction with Global Sustainable Finance
+Job Responsibilities:
+Support the origination and execution of investment banking transaction mandates for large-cap corporate clients in the power and energy transition sector, such as: buy and sell-side M&A, inclusive of cross border transactions, as well as capital markets processes, including debt and equity offerings.
+Prepare materials for clients and participate in client meetings during the course of investment banking deal origination and execution.
+Draft and negotiate engagement letters, confidentiality agreements and other documents related to investment banking transactions.
+Attend and oversee client meetings with prospective buyers in sell-side M&A processes, including management presentations and due diligence.
+Support internal transaction and capital commitment committee processes such as Fairness Committee, Equity Commitment Committee and Leveraged Finance Committee including credit and risk committee processes.
+Execute investment banking transactions and processes in a global firm environment, including both M&A and capital markets products.
+Prepare financial analysis, including detailed valuation analysis, such as: LBO analysis, discounted cash flow, accretion and dilution, IPO pro forma analysis, comparative company analysis, and sum of parts analysis.
+Conduct due diligence in connection with investment banking transactions.
+Prepare materials for clients and participating in client meetings during the course of investment banking deal origination and execution.
+Lead teams of junior investment bankers to execute transactions, prepare client materials, and manage transaction processes.
+REQUIRED SKILLS AND EXPERIENCE:
+3 years of experience as an associate with global bank/bulge bracket investment banking transactions in the job offered or a related finance occupation and a strong preference for a master's degree or equivalent in Business Administration, Finance, Mathematics or related
+Must include 3 years of experience in each of the following:
+Executing investment banking transactions and processes in a global firm environment, including both M&A and capital markets products.
+Preparing financial analysis, including detailed valuation analysis, such as: LBO analysis, discounted cash flow, accretion and dilution, IPO pro forma analysis, comparative company analysis, and sum of parts analysis.
+Conducting due diligence in connection with investment banking transactions.
+Preparing materials for clients and participating in client meetings during investment banking deal origination and execution; and,
+Leading teams of junior investment bankers to execute transactions, prepare client materials, and manage transaction processes.
+In the alternative, the employer will accept a bachelor’s degree in a stated field and 5 years of progressively responsible experience.
+Domestic and international travel, as necessary
+Shift:
+1st shift (United States of America)
+Hours Per Week:
+40
+
+---
+
